@@ -24,5 +24,11 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
+
+        // set first commit from MAC
+        tv.setText("First commit from MAC");
+        
+
     }
 }
