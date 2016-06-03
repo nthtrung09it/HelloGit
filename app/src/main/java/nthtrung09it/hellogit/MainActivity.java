@@ -28,7 +28,8 @@ public class MainActivity extends AppCompatActivity {
 
         // set first commit from MAC
         tv.setText("First commit from MAC");
-        
 
+        // set second commit from MAC
+        tv.setText("Second commit from MAC");
     }
 }
